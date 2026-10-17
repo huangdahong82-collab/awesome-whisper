@@ -85,6 +85,7 @@
 - [bigWav](https://bigwav.app) - Audio transcription and annotation tool.
 - [Free Podcast Transcription](https://freepodcasttranscription.com) - Runs locally in your browser.
 - [Gladia](https://www.gladia.io) - Transcription with real-time processing.
+- [Instagram Transcript](https://transcriptreel.com) - Transcripts for Instagram Reels and Stories from an uploaded audio or video file, no login.
 - [Whisper-Web](https://github.com/PierreMesure/whisper-web) - Local transcription using WebGPU, with optimised fine-tuned models for several languages. (FOSS)
 
 ### Self-hosted
